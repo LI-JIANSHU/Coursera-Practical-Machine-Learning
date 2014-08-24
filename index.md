@@ -26,9 +26,10 @@
 
 ---
 
-## Predict with the final test dataset
+## Predict the test dataset using the best model
 
 * Use the best model above and use predict() function to predict the result on the test dataset
+* The code to generate the best model is <a href='R_code/main.R'>here</a>. 
 * The best model has an accuracy of 97%.
 * On the test dataset, the result is as follows: 
 * The result above has 1 misclassification out of 20, the accuracy is 95%.
