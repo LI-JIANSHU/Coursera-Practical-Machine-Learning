@@ -30,7 +30,7 @@
 
 * Use the best model above and use predict() function to predict the result on the test dataset
 * The code to generate the best model is <a href='R_code/main.R'>here</a>. 
-* The best model has an accuracy of 98.2%. The full result of the confusion matric is <a href='R_code/log'>here</a>.
+* The best model has an accuracy of 98.27%. The full result of the confusion matrix is <a href='R_code/log'>here</a>.
 * On the test dataset, the prediction result is <a href='R_code/log2'>here</a>.
 * The result above has 1 misclassification out of 20, the accuracy is 95%.
  
