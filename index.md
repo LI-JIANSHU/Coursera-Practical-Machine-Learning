@@ -32,5 +32,5 @@
 * The best model has an accuracy of 97%.
 * On the test dataset, the result is as follows: 
 * The result above has 1 misclassification out of 20, the accuracy is 95%.
-
+ 
 
