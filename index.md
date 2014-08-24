@@ -13,14 +13,14 @@
 ## Build the model
 
 * Fit various models with the training dataset by setting the method within the train() function to different options.
-* Use preprocessing by setting the PreProcess option in train() function
+* Use preprocessing by setting the preProcess option in train() function
 * Save the models for cross validation
 
 ---
 
 ## Choose the best model
 
-* Use prediction() function on cross validation set to predict the resultant classes.
+* Use predict() function on cross validation set to predict the resultant classes.
 * Use confusionMatrix() function to see the accuracy of the predictions. 
 * Choose the model with highest accuracy as the best model
 
